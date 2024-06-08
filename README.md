@@ -15,7 +15,7 @@ Nếu bạn không muốn sử dụng file `mnist_cnn_model_improved.keras` đã
    - Bạn có thể clone repository này bằng cách sử dụng Git hoặc tải dự án về máy tính dưới dạng file zip.
 
 2. **Cài đặt các thư viện cần thiết**:
-   - Đảm bảo bạn đã cài đặt các thư viện Python cần thiết bằng cách chạy `pip install -r requirements.txt`.
+   - Đảm bảo bạn đã cài đặt các thư viện Python cần thiết bằng cách chạy `pip install <tên thư viện>`.
 
 3. **Chạy file FORM.py**:
    - Chạy file `FORM.py` để sử dụng mô hình CNN để nhận dạng chữ số từ ảnh bạn vẽ.
@@ -23,7 +23,7 @@ Nếu bạn không muốn sử dụng file `mnist_cnn_model_improved.keras` đã
 4. **Tùy chỉnh và mở rộng dự án**:
    - Bạn có thể tùy chỉnh và mở rộng dự án bằng cách chỉnh sửa mã nguồn và thêm các tính năng mới.
 
-**Nếu bạn cần trợ giúp hoặc có bất kỳ câu hỏi nào, hãy liên hệ với tôi qua Zalo theo số: <span style="color:red">0394915710</span>.**
+## Nếu bạn cần trợ giúp hoặc có bất kỳ câu hỏi nào, hãy liên hệ với tôi qua Zalo theo số: <span style="color:red">0394915710</span>.
 
 ![Ảnh nhận dạng số 1](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_CNN/blob/main/img/so1.jpg)
 ![Ảnh nhận dạng số 2](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_CNN/blob/main/img/so2.jpg)
